@@ -222,8 +222,3 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ---
 
-## Author
-
-**Joms** (Andres Hincapie)  
-Feel free to reach out at `<tu@correo.com>` or check more at [GitHub](https://github.com/tu-usuario).
-
