@@ -1,0 +1,29 @@
+# Node.js / TypeScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/dist/
+/build/
+/*.js
+/*.d.ts
+
+# Visual Studio Code settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# C++ build files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Other temporary / log files
+*.log
